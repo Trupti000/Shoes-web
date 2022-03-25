@@ -1,0 +1,93 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; 
+    justify-content: space-around; 
+}
+.row h5{
+    font-weight: 900;
+}
+.row{
+    background-color: rgba(0, 0, 0, 0.431);
+    
+}
+.card-body:hover{
+    background-color: rgba(207, 22, 22, 0.192);
+}
+.head h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+.head p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.mid h1{
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    font-size: 35px;
+}
+.KID{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: antiquewhite;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Acme', sans-serif;
+font-family: 'Akaya Telivigala', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Concert One', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fredoka', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Redressed', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+.KID h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+}
+.KID h3{
+    color: darkred;
+
+}
+.KID h5{
+    color: rgb(22, 21, 21);
+    font-weight: 900;
+}
+.last h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+
+}
+.rrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

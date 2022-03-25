@@ -1,0 +1,103 @@
+.row h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-weight: 900;   
+
+}
+.head h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Concert One', cursive;
+    font-family: 'Cookie', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Redressed', cursive;
+    font-family: 'Roboto Condensed', sans-serif;   
+
+}
+
+.head p{
+    font-size: medium;
+    color: brown;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Concert One', cursive;
+    font-family: 'Cookie', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Redressed', cursive;
+    font-family: 'Roboto Condensed', sans-serif;   
+
+
+}
+.mobile h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: -4rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.411);
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.header h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: brown;
+    font-size: 40px;  
+
+}
+.rrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
